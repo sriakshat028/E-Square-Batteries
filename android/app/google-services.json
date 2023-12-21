@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "929442135536",
+    "project_id": "esquare-batteries",
+    "storage_bucket": "esquare-batteries.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929442135536:android:e1d64a3486af7c71e33135",
+        "android_client_info": {
+          "package_name": "com.example.esquare_batteries"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929442135536-ehufde28qase14u31nkog630ip5to9np.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYwCh7bmTkcuyKauzvp5OrulH212enmg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929442135536-ehufde28qase14u31nkog630ip5to9np.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
